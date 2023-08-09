@@ -19,7 +19,10 @@
         "symfony/form": "6.3.*",
         "symfony/framework-bundle": "6.3.*",
         "symfony/runtime": "6.3.*",
+<<<<<<< HEAD
         "symfony/security-bundle": "6.3.*",
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
         "symfony/security-csrf": "6.3.*",
         "symfony/twig-bundle": "6.3.*",
         "symfony/validator": "6.3.*",
@@ -75,7 +78,10 @@
         }
     },
     "require-dev": {
+<<<<<<< HEAD
         "doctrine/doctrine-fixtures-bundle": "^3.4",
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
         "symfony/maker-bundle": "^1.50"
     }
 }

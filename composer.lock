@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "e6761eddaffe81944517482af06a1998",
+=======
+    "content-hash": "0f07f2653509fa10a8690332044f510a",
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1646,6 +1650,7 @@
             "time": "2021-02-03T23:26:27+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "psr/clock",
             "version": "1.0.0",
             "source": {
@@ -1694,6 +1699,8 @@
             "time": "2022-11-25T14:36:26+00:00"
         },
         {
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
             "name": "psr/container",
             "version": "2.0.2",
             "source": {
@@ -2166,6 +2173,7 @@
             "time": "2023-05-23T14:45:45+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "symfony/clock",
             "version": "v6.3.1",
             "source": {
@@ -2239,6 +2247,8 @@
             "time": "2023-06-08T23:46:55+00:00"
         },
         {
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
             "name": "symfony/config",
             "version": "v6.3.0",
             "source": {
@@ -4632,6 +4642,7 @@
             "time": "2023-07-16T17:05:46+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "symfony/security-bundle",
             "version": "v6.3.3",
             "source": {
@@ -4742,6 +4753,8 @@
             "time": "2023-07-31T07:08:24+00:00"
         },
         {
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
             "name": "symfony/security-core",
             "version": "v6.3.3",
             "source": {
@@ -4895,6 +4908,7 @@
             "time": "2023-07-05T08:41:27+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "symfony/security-http",
             "version": "v6.3.2",
             "source": {
@@ -4982,6 +4996,8 @@
             "time": "2023-07-13T14:29:38+00:00"
         },
         {
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
             "name": "symfony/service-contracts",
             "version": "v3.3.0",
             "source": {
@@ -5987,6 +6003,7 @@
     ],
     "packages-dev": [
         {
+<<<<<<< HEAD
             "name": "doctrine/data-fixtures",
             "version": "1.6.6",
             "source": {
@@ -6152,6 +6169,8 @@
             "time": "2023-05-02T15:12:16+00:00"
         },
         {
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
             "name": "nikic/php-parser",
             "version": "v4.16.0",
             "source": {

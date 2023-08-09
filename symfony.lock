@@ -22,6 +22,7 @@
             "./src/Repository/.gitignore"
         ]
     },
+<<<<<<< HEAD
     "doctrine/doctrine-fixtures-bundle": {
         "version": "3.4",
         "recipe": {
@@ -34,6 +35,8 @@
             "./src/DataFixtures/AppFixtures.php"
         ]
     },
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
     "doctrine/doctrine-migrations-bundle": {
         "version": "3.2",
         "recipe": {
@@ -127,6 +130,7 @@
             "./config/routes.yaml"
         ]
     },
+<<<<<<< HEAD
     "symfony/security-bundle": {
         "version": "6.3",
         "recipe": {
@@ -139,6 +143,8 @@
             "./config/packages/security.yaml"
         ]
     },
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
     "symfony/twig-bundle": {
         "version": "6.3",
         "recipe": {

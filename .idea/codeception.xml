@@ -9,9 +9,12 @@
         <Configuration>
           <option name="path" value="$PROJECT_DIR$/tests" />
         </Configuration>
+<<<<<<< HEAD
         <Configuration>
           <option name="path" value="$PROJECT_DIR$/tests" />
         </Configuration>
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
       </list>
     </option>
   </component>

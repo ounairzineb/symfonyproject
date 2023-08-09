@@ -8,9 +8,12 @@
       <PhpSpecSuiteConfiguration>
         <option name="myPath" value="$PROJECT_DIR$" />
       </PhpSpecSuiteConfiguration>
+<<<<<<< HEAD
       <PhpSpecSuiteConfiguration>
         <option name="myPath" value="$PROJECT_DIR$" />
       </PhpSpecSuiteConfiguration>
+=======
+>>>>>>> 9c7aea1adbc2c020aa59659c957688f86b023394
     </suites>
   </component>
 </project>
